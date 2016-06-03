@@ -1,6 +1,8 @@
+<center>
 **Machine Learning Capstone Project**
 <br>
 <i>**Suitability of Dysphonia Measurements for Diagnosis of Parkinson’s Disease**</i>
+</center>
 
 ![alt text](scattermatrix.png "Scatter Matrix of Data Set")
 
