@@ -1,5 +1,7 @@
 <center>
 **Machine Learning Capstone Project**
+
+A pdf of this README exists in this repository as ProjectReport.pdf
 <br>
 ##**<i>Suitability of Dysphonia Measurements for Diagnosis of Parkinson’s Disease</i>**
 </center>
