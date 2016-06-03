@@ -119,6 +119,8 @@ The final model aligns with the solution expectations. It produces a F1 score un
 <br>
 The final results are not as strong as the benchmark provided by the study of 91.4%. My model’s final rate was 89.74%. However, this does verify the study as my model is within a 5% margin of their analysis. I believe with even further scrutiny in the tuning of the model, I may be able to achieve the same result as that with the study. It may be possible to achieve even a higher rate but that would require a very thorough optimization of the parameters and cleaning of the data for small outliers.
 
+![alt text](f1score.png "Scatter Matrix of Data Set")
+
 **Free-Form Visualization**
 <br>
 For my free-form visualization, I have graphed the F1 scores of the four classifiers I have tested. The two classifiers that were put under scrutiny by me were the SGD and GBT. This is because one of them had a dramatic drop in its F1 score while the other had a higher rate than that found in the study (91.4%). With more research into both classifiers I was able to identify why this was the case. The SGD classifier is better when data is sparse (ex. Text classification), but is sensitive otherwise. The GBT classifier looks as if it is excellent, but underperforms as the amount of data scales up. This means that it would underperform when there is much more data and so it would not be viable in industry.
