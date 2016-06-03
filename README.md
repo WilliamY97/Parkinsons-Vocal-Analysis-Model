@@ -1,6 +1,9 @@
 **Machine Learning Capstone Project**
 **Suitability of Dysphonia Measurements for Diagnosis of Parkinson’s Disease**
 
+![alt text](scattermatrix.png "Description goes here")
+
+
 **Project Overview**
 <br>
 For my capstone project, I have decided to focus on the field of medicine and classify whether or not a patient has Parkinson’s disease based on their vocalization data. For context, Parkinson’s is a progressive disease that causes the degeneration of the brain, leading to both motor and cognitive problems. It is thus reasonable to assume a correlation between a patient’s ability to speak and their progression into Parkinson’s as these capabilities regress.  The data set I worked with was obtained through a 2008 study by the journal, IEEE Transactions on Biomedical Engineering, of how various parameters of voice frequency can help classify if a patient is suffering from Parkinson’s. By performing a classification on this data, I hope to prove that vocalization tests are indeed a well suited way to diagnose a patient for this disease. The diagnosis at hand is valuable as the test can be administered at home without the need for the patient to visit a hospital – saving time, cost, and energy.
