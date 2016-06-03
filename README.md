@@ -4,9 +4,6 @@
 ##**<i>Suitability of Dysphonia Measurements for Diagnosis of Parkinson’s Disease</i>**
 </center>
 
-![alt text](scattermatrix.png "Scatter Matrix of Data Set")
-
-
 **Project Overview**
 <br>
 For my capstone project, I have decided to focus on the field of medicine and classify whether or not a patient has Parkinson’s disease based on their vocalization data. For context, Parkinson’s is a progressive disease that causes the degeneration of the brain, leading to both motor and cognitive problems. It is thus reasonable to assume a correlation between a patient’s ability to speak and their progression into Parkinson’s as these capabilities regress.  The data set I worked with was obtained through a 2008 study by the journal, IEEE Transactions on Biomedical Engineering, of how various parameters of voice frequency can help classify if a patient is suffering from Parkinson’s. By performing a classification on this data, I hope to prove that vocalization tests are indeed a well suited way to diagnose a patient for this disease. The diagnosis at hand is valuable as the test can be administered at home without the need for the patient to visit a hospital – saving time, cost, and energy.
@@ -14,6 +11,8 @@ For my capstone project, I have decided to focus on the field of medicine and cl
 **Problem Statement**
 <br>
 This project attempts to prove that vocalization data from a patient can help diagnose whether or not they suffer from Parkinson’s. As such, it is initially assumed that there is a relationship between the two. I will attempt to run various machine learning classifiers (Ex. Naïve Bayes, SVM, etc.) on the data in hopes to reach a high predictability rate that is matched with a reasonable runtime. The study itself obtained a predictability rate of 91.4% and so I hope to reach a rate close to this or possibly to surpass it. If I can reach a rate that is within a 5% interval of the one obtained in the study, I will have proved the study correct. 
+
+![alt text](scattermatrix.png "Scatter Matrix of Data Set")
 
 **Metrics**
 <br>
