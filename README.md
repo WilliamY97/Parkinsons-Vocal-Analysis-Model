@@ -1,7 +1,7 @@
 <center>
-<h4>**Machine Learning Capstone Project**</h4>
+<h4>Machine Learning Capstone Project</h4>
 <br>
-<h4><i>**Suitability of Dysphonia Measurements for Diagnosis of Parkinson’s Disease**</i></h4>
+<h4><i>Suitability of Dysphonia Measurements for Diagnosis of Parkinson’s Disease</i></h4>
 </center>
 
 ![alt text](scattermatrix.png "Scatter Matrix of Data Set")
