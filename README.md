@@ -1,5 +1,4 @@
 <center>
-**Machine Learning Capstone Project**
 
 NOTE: A PDF of this README exists in this repository as ProjectReport.pdf
 <br>
