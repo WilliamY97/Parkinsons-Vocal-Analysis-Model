@@ -1,6 +1,6 @@
 <center>
 
-NOTE: A PDF of this README exists in this repository as ProjectReport.pdf
+NOTE: A more in depth PDF of this README exists in this repository as ProjectReport.pdf
 <br>
 ## **<i>Suitability of Dysphonia Measurements for Diagnosis of Parkinson’s Disease</i>**
 </center>
